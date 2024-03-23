@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Hacker Stopper</title>
+</head>
+<body>
+  <h1>Hacker Stopper</h1>
+  <script src="hacker-stopper.js"></script>
+</body>
+</html>
